@@ -1,0 +1,4 @@
+<h1>From template: Hello world!</h1>
+<h1> Hello <%= String.capitalize(@route_name) %>!</h1>
+
+
